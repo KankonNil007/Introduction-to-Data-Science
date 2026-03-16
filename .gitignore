@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+# Actually
+Module-03/01-Data-Processing/datasets/college-scorecard
 # Distribution / packaging
 .Python
 build/
