@@ -13,7 +13,7 @@ I have successfully completed all modules and assignments, earning a verified ce
 ## ⏳ Timeline & Status
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Started-March%202026-blue?style=for-the-badge" alt="Started">
+  <img src="https://img.shields.io/badge/Started-January%202026-blue?style=for-the-badge" alt="Started">
   <img src="https://img.shields.io/badge/Finished-March%202026-success?style=for-the-badge" alt="Finished">
   <img src="https://img.shields.io/badge/Status-Updating%20Regularly-orange?style=for-the-badge" alt="Status">
 </div>
